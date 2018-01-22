@@ -29,6 +29,7 @@ source $dir/functions/apps/slack
 source $dir/functions/apps/sublime
 # source $dir/functions/apps/synergy
 # source $dir/functions/apps/telegram
+source $dir/functions/apps/uget
 source $dir/functions/apps/vlc
 source $dir/functions/apps/vim
 
