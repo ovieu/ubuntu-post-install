@@ -21,6 +21,7 @@ source $dir/functions/apps/peek
 source $dir/functions/apps/pia
 # source $dir/functions/apps/plex
 # source $dir/functions/apps/riot
+source $dir/functions/apps/redshift
 source $dir/functions/apps/rvm
 source $dir/functions/apps/slack
 # source $dir/functions/apps/spotify
