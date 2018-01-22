@@ -53,15 +53,20 @@ function thirdparty {
 		'firefox'		'Firefox (Beta)' \
 		'flatpak'		'Flatpak' \
 		'inkscape'		'Inkscape' \
+		'kodi'			'Kodi'	\
 		'peek'			'Peek' \
 		'pia'			'Private Internet Access' \
 		'plex'			'Plex Media Server' \
+		'redshift'		'Redshift'	\
 		'riot'			'Riot Chat' \
 		'rvm'			'Ruby Version Manager (RVM)' \
 		'slack'			'Slack Desktop' \
 		'steam'			'Steam' \
 		'sublime'		'Sublime Text 3' \
 		'telegram'		'Telegram' \
+		'uget'			'Uget'	\
+		'vlc'			'Vlc'	\
+		'vim'			'Vim'	\
 		3>&1 1>&2 2>&3)
 	else
 		main
